@@ -1,0 +1,7 @@
+interface:
+  display_name: "打包飞牛应用"
+  short_description: "打包飞牛 NAS 应用并生成可安装的 FPK 文件"
+  default_prompt: "Use $cx-build-feiniu-app to package a project folder into a Feiniu .fpk app."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "初始化飞牛项目"
+  short_description: "按现有架构初始化飞牛 NAS 应用项目"
+  default_prompt: "Use $cx-init-feiniu-project to create a Feiniu app project from a folder path and Chinese product name."
+
+policy:
+  allow_implicit_invocation: true

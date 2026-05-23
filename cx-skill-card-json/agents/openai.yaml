@@ -1,0 +1,7 @@
+interface:
+  display_name: "技能卡片数据生成"
+  short_description: "根据技能名称生成 marketplace JSON 数据"
+  default_prompt: "Use $cx-skill-card-json to generate a JSON skill card for a skill name."
+
+policy:
+  allow_implicit_invocation: true
